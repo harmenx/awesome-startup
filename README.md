@@ -76,6 +76,7 @@ Most of these platforms have **affiliate programs** — replace `YOUR_AFFILIATE_
 - [Google Analytics](YOUR_AFFILIATE_LINK) – Web & app analytics. ![GA](https://img.shields.io/badge/Analytics-Google-blue)  
 - [Mixpanel](YOUR_AFFILIATE_LINK) – Product analytics for startups. ![Mixpanel](https://img.shields.io/badge/Analytics-Mixpanel-purple)  
 - [Amplitude](YOUR_AFFILIATE_LINK) – Behavioral analytics for growth. ![Amplitude](https://img.shields.io/badge/Product-Amplitude-green)  
+- [GetAppNiche](https://getappniche.com) – iOS App Store intelligence for revenue estimates, ASO keywords, reviews, and competitors. ![App Intelligence](https://img.shields.io/badge/Analytics-GetAppNiche-lime)  
 - [Typeform](YOUR_AFFILIATE_LINK) – Surveys & lead generation forms. ![Typeform](https://img.shields.io/badge/Surveys-Typeform-orange)  
 - [UserTesting](YOUR_AFFILIATE_LINK) – Customer feedback & insights. ![UserTesting](https://img.shields.io/badge/Feedback-UserTesting-red)  
 
