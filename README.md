@@ -78,6 +78,7 @@ Most of these platforms have **affiliate programs** — replace `YOUR_AFFILIATE_
 - [Amplitude](YOUR_AFFILIATE_LINK) – Behavioral analytics for growth. ![Amplitude](https://img.shields.io/badge/Product-Amplitude-green)  
 - [Typeform](YOUR_AFFILIATE_LINK) – Surveys & lead generation forms. ![Typeform](https://img.shields.io/badge/Surveys-Typeform-orange)  
 - [UserTesting](YOUR_AFFILIATE_LINK) – Customer feedback & insights. ![UserTesting](https://img.shields.io/badge/Feedback-UserTesting-red)  
+- [Apstal](https://apstal.com) – AI-powered web analytics with session replay and AI chat. Cookieless, GDPR-compliant. ![Apstal](https://img.shields.io/badge/Analytics-Apstal-blue)  
 
 
 ---
