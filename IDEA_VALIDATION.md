@@ -9,6 +9,8 @@ Tools to find problems, validate demand, and avoid building useless products.
   https://explodingtopics.com/?via=YOUR_AFFILIATE_LINK
 - **Reddit / X Search** – Raw pain points  
   https://reddit.com
+- **IdeaHunter** – Demand-backed app and micro-SaaS idea research  
+  https://ideahunter.today
 
 ## Validation & Landing Pages
 - **Carrd** – 1-page validation sites  
