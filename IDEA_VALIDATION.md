@@ -1,25 +1,20 @@
-# 🧠 Idea & Validation
+# Idea & Validation
 
 Tools to find problems, validate demand, and avoid building useless products.
 
 ## Market Research
-- **Google Trends** – Demand validation  
-  https://trends.google.com
-- **Exploding Topics** – Emerging trends  
-  https://explodingtopics.com/?via=YOUR_AFFILIATE_LINK
-- **Reddit / X Search** – Raw pain points  
-  https://reddit.com
+
+- [Google Trends](https://trends.google.com) - Demand validation.
+- [Exploding Topics](https://explodingtopics.com) - Emerging trends.
+- [Reddit / X Search](https://www.reddit.com) - Raw pain points.
 
 ## Validation & Landing Pages
-- **Carrd** – 1-page validation sites  
-  https://carrd.co/?via=YOUR_AFFILIATE_LINK
-- **Tally** – Zero-friction forms  
-  https://tally.so/?via=YOUR_AFFILIATE_LINK
-- **Typeform** – Higher-end surveys  
-  https://www.typeform.com/?via=YOUR_AFFILIATE_LINK
+
+- [Carrd](https://carrd.com) - 1-page validation sites.
+- [Tally](https://tally.so) - Zero-friction forms.
+- [Typeform](https://www.typeform.com) - Higher-end surveys.
 
 ## Analytics
-- **Plausible** – Lightweight analytics  
-  https://plausible.io/?via=YOUR_AFFILIATE_LINK
-- **PostHog** – Product analytics  
-  https://posthog.com/?via=YOUR_AFFILIATE_LINK
+
+- [Plausible](https://plausible.io) - Lightweight analytics.
+- [PostHog](https://posthog.com) - Product analytics.
