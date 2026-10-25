@@ -1,11 +1,9 @@
-# 🚀 Awesome Startup Tools
+# Awesome Startup Tools [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of the best tools for startups — from idea to launch to scale.  
-Most of these platforms have **affiliate programs** — replace `YOUR_AFFILIATE_LINK` with your tracking link.  
+Tools for taking a startup from idea to launch and scale.
 
----
+## Contents
 
-## 📌 Table of Contents
 - [Domains & Hosting](#domains--hosting)
 - [Productivity & Collaboration](#productivity--collaboration)
 - [Design & Prototyping](#design--prototyping)
@@ -14,72 +12,65 @@ Most of these platforms have **affiliate programs** — replace `YOUR_AFFILIATE_
 - [Finance & Operations](#finance--operations)
 - [Analytics & Customer Feedback](#analytics--customer-feedback)
 
----
+## Domains & Hosting
 
-## 🌐 Domains & Hosting
-- [Namecheap](YOUR_AFFILIATE_LINK) – Affordable domains & SSL. ![Namecheap](https://img.shields.io/badge/Domains-Namecheap-orange)  
-- [Google Domains](YOUR_AFFILIATE_LINK) – Easy-to-manage domains. ![GoogleDomains](https://img.shields.io/badge/Domains-Google-blue)  
-- [Bluehost](YOUR_AFFILIATE_LINK) – Hosting with WordPress support. ![Bluehost](https://img.shields.io/badge/Hosting-Bluehost-lightblue)  
-- [Hostinger](YOUR_AFFILIATE_LINK) – Budget-friendly hosting for startups. ![Hostinger](https://img.shields.io/badge/Hosting-Hostinger-purple)  
-- [Cloudflare](YOUR_AFFILIATE_LINK) – CDN, DNS, and security. ![Cloudflare](https://img.shields.io/badge/CDN-Cloudflare-orange)  
+- [Namecheap](https://www.namecheap.com) - Affordable domains and SSL.
+- [Bluehost](https://www.bluehost.com) - Hosting with WordPress support.
+- [Hostinger](https://www.hostinger.com) - Budget-friendly hosting for startups.
+- [Cloudflare](https://www.cloudflare.com) - CDN, DNS, and security.
 
----
+## Productivity & Collaboration
 
-## 👩‍💻 Productivity & Collaboration
-- [Notion](YOUR_AFFILIATE_LINK) – All-in-one workspace for docs, tasks, and wikis. ![Notion](https://img.shields.io/badge/Productivity-Notion-black)  
-- [ClickUp](YOUR_AFFILIATE_LINK) – Project management with flexibility. ![ClickUp](https://img.shields.io/badge/Tasks-ClickUp-green)  
-- [Slack](YOUR_AFFILIATE_LINK) – Team communication & integrations. ![Slack](https://img.shields.io/badge/Chat-Slack-blue)  
-- [Zoom](YOUR_AFFILIATE_LINK) – Video meetings & webinars. ![Zoom](https://img.shields.io/badge/Video-Zoom-purple)  
-- [Miro](YOUR_AFFILIATE_LINK) – Collaborative whiteboarding. ![Miro](https://img.shields.io/badge/Whiteboard-Miro-yellow)  
+- [Notion](https://www.notion.com) - All-in-one workspace for docs, tasks, and wikis.
+- [ClickUp](https://clickup.com) - Project management with flexibility.
+- [Slack](https://slack.com) - Team communication and integrations.
+- [Zoom](https://www.zoom.com) - Video meetings and webinars.
+- [Miro](https://miro.com) - Collaborative whiteboarding.
 
----
+## Design & Prototyping
 
-## 🎨 Design & Prototyping
-- [Canva](YOUR_AFFILIATE_LINK) – Easy design for pitch decks, social posts, and more. ![Canva](https://img.shields.io/badge/Design-Canva-teal)  
-- [Figma](YOUR_AFFILIATE_LINK) – Collaborative UI/UX design. ![Figma](https://img.shields.io/badge/UIUX-Figma-purple)  
-- [Envato Elements](YOUR_AFFILIATE_LINK) – Stock assets, graphics, and templates. ![Envato](https://img.shields.io/badge/Assets-Envato-green)  
-- [Adobe Creative Cloud](YOUR_AFFILIATE_LINK) – Professional creative suite. ![Adobe](https://img.shields.io/badge/Creative-Adobe-red)  
+- [Canva](https://www.canva.com) - Easy design for pitch decks, social posts, and more.
+- [Figma](https://www.figma.com) - Collaborative UI/UX design.
+- [Envato Elements](https://elements.envato.com) - Stock assets, graphics, and templates.
+- [Adobe Creative Cloud](https://www.adobe.com/creativecloud.html) - Professional creative suite.
 
----
+## Development & Infrastructure
 
-## 🛠 Development & Infrastructure
-- [GitHub](YOUR_AFFILIATE_LINK) – Code hosting & collaboration. ![GitHub](https://img.shields.io/badge/Code-GitHub-black)  
-- [GitLab](YOUR_AFFILIATE_LINK) – DevOps lifecycle management. ![GitLab](https://img.shields.io/badge/DevOps-GitLab-orange)  
-- [Render](YOUR_AFFILIATE_LINK) – Simple cloud hosting for apps. ![Render](https://img.shields.io/badge/Hosting-Render-blue)  
-- [Netlify](YOUR_AFFILIATE_LINK) – Hosting for static sites & Jamstack. ![Netlify](https://img.shields.io/badge/Hosting-Netlify-lightblue)  
-- [Vercel](YOUR_AFFILIATE_LINK) – Frontend deployment for Next.js & beyond. ![Vercel](https://img.shields.io/badge/Deploy-Vercel-black)  
-- [Heroku](YOUR_AFFILIATE_LINK) – Simple PaaS hosting. ![Heroku](https://img.shields.io/badge/Hosting-Heroku-purple)  
+- [GitHub](https://github.com) - Code hosting and collaboration.
+- [GitLab](https://gitlab.com) - DevOps lifecycle management.
+- [Render](https://render.com) - Simple cloud hosting for apps.
+- [Netlify](https://www.netlify.com) - Hosting for static sites and Jamstack.
+- [Vercel](https://vercel.com) - Frontend deployment for Next.js and beyond.
+- [Heroku](https://www.heroku.com) - Simple PaaS hosting.
 
----
+## Marketing & Growth
 
-## 📈 Marketing & Growth
-- [HubSpot](YOUR_AFFILIATE_LINK) – CRM, sales, and marketing automation. ![HubSpot](https://img.shields.io/badge/CRM-HubSpot-orange)  
-- [Mailchimp](YOUR_AFFILIATE_LINK) – Email marketing for startups. ![Mailchimp](https://img.shields.io/badge/Email-Mailchimp-yellow)  
-- [ConvertKit](YOUR_AFFILIATE_LINK) – Email marketing for creators & startups. ![ConvertKit](https://img.shields.io/badge/Email-ConvertKit-purple)  
-- [GetResponse](YOUR_AFFILIATE_LINK) – All-in-one marketing platform. ![GetResponse](https://img.shields.io/badge/Marketing-GetResponse-green)  
-- [Buffer](YOUR_AFFILIATE_LINK) – Social media scheduling & analytics. ![Buffer](https://img.shields.io/badge/Social-Buffer-blue)  
-- [Hotjar](YOUR_AFFILIATE_LINK) – Heatmaps & user behavior analytics. ![Hotjar](https://img.shields.io/badge/Analytics-Hotjar-red)  
+- [HubSpot](https://www.hubspot.com) - CRM, sales, and marketing automation.
+- [Mailchimp](https://mailchimp.com) - Email marketing for startups.
+- [ConvertKit](https://kit.com) - Email marketing for creators and startups.
+- [GetResponse](https://www.getresponse.com) - All-in-one marketing platform.
+- [Buffer](https://buffer.com) - Social media scheduling and analytics.
+- [Hotjar](https://www.hotjar.com) - Heatmaps and user behavior analytics.
 
----
+## Finance & Operations
 
-## 💵 Finance & Operations
-- [Stripe](YOUR_AFFILIATE_LINK) – Payments, billing, and subscriptions. ![Stripe](https://img.shields.io/badge/Payments-Stripe-purple)  
-- [PayPal](YOUR_AFFILIATE_LINK) – Global online payments. ![PayPal](https://img.shields.io/badge/Payments-PayPal-blue)  
-- [QuickBooks](YOUR_AFFILIATE_LINK) – Accounting and bookkeeping. ![QuickBooks](https://img.shields.io/badge/Accounting-QuickBooks-green)  
-- [FreshBooks](YOUR_AFFILIATE_LINK) – Cloud accounting & invoicing. ![FreshBooks](https://img.shields.io/badge/Accounting-FreshBooks-orange)  
-- [Gusto](YOUR_AFFILIATE_LINK) – Payroll, benefits, and HR. ![Gusto](https://img.shields.io/badge/HR-Gusto-red)  
-- [Deel](YOUR_AFFILIATE_LINK) – Global payroll & compliance. ![Deel](https://img.shields.io/badge/Payroll-Deel-darkblue)  
+- [Stripe](https://stripe.com) - Payments, billing, and subscriptions.
+- [PayPal](https://www.paypal.com) - Global online payments.
+- [QuickBooks](https://quickbooks.intuit.com) - Accounting and bookkeeping.
+- [FreshBooks](https://www.freshbooks.com) - Cloud accounting and invoicing.
+- [Gusto](https://gusto.com) - Payroll, benefits, and HR.
+- [Deel](https://www.deel.com) - Global payroll and compliance.
 
----
+## Analytics & Customer Feedback
 
-## 📊 Analytics & Customer Feedback
-- [Google Analytics](YOUR_AFFILIATE_LINK) – Web & app analytics. ![GA](https://img.shields.io/badge/Analytics-Google-blue)  
-- [Mixpanel](YOUR_AFFILIATE_LINK) – Product analytics for startups. ![Mixpanel](https://img.shields.io/badge/Analytics-Mixpanel-purple)  
-- [Amplitude](YOUR_AFFILIATE_LINK) – Behavioral analytics for growth. ![Amplitude](https://img.shields.io/badge/Product-Amplitude-green)  
-- [Typeform](YOUR_AFFILIATE_LINK) – Surveys & lead generation forms. ![Typeform](https://img.shields.io/badge/Surveys-Typeform-orange)  
-- [UserTesting](YOUR_AFFILIATE_LINK) – Customer feedback & insights. ![UserTesting](https://img.shields.io/badge/Feedback-UserTesting-red)  
+- [Google Analytics](https://marketingplatform.google.com/about/analytics) - Web and app analytics.
+- [Mixpanel](https://mixpanel.com) - Product analytics for startups.
+- [Amplitude](https://amplitude.com) - Behavioral analytics for growth.
+- [Typeform](https://www.typeform.com) - Surveys and lead generation forms.
+- [UserTesting](https://www.usertesting.com) - Customer feedback and insights.
 
+## Contributing
 
----
+Contributions are welcome. Read the [contribution guidelines](contributing.md) first.
 
-> Made with ❤️ to help founders, solopreneurs, and startup teams scale smarter.
+Made with ❤️ to help founders, solopreneurs, and startup teams scale smarter.

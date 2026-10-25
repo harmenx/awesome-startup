@@ -1,21 +1,18 @@
-# 🎨 Design & MVP
+# Design & MVP
 
 Move from idea to usable product fast.
 
 ## Design
-- **Figma** – UI/UX design  
-  https://figma.com
-- **Framer** – Design + live sites  
-  https://www.framer.com/?via=YOUR_AFFILIATE_LINK
+
+- [Figma](https://www.figma.com) - UI/UX design.
+- [Framer](https://www.framer.com) - Design and live sites.
 
 ## No-Code / Low-Code
-- **Webflow** – Production-ready sites  
-  https://webflow.com/?via=YOUR_AFFILIATE_LINK
-- **Bubble** – Complex logic without code  
-  https://bubble.io/?via=YOUR_AFFILIATE_LINK
+
+- [Webflow](https://webflow.com) - Production-ready sites.
+- [Bubble](https://bubble.io) - Complex logic without code.
 
 ## AI for MVP Speed
-- **v0.dev** – UI generation  
-  https://v0.dev
-- **Cursor** – AI-first IDE  
-  https://cursor.sh/?via=YOUR_AFFILIATE_LINK
+
+- [v0.dev](https://v0.app) - UI generation.
+- [Cursor](https://cursor.com) - AI-first IDE.
