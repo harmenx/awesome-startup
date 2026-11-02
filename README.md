@@ -51,6 +51,7 @@ Tools for taking a startup from idea to launch and scale.
 - [GetResponse](https://www.getresponse.com) - All-in-one marketing platform.
 - [Buffer](https://buffer.com) - Social media scheduling and analytics.
 - [Hotjar](https://www.hotjar.com) - Heatmaps and user behavior analytics.
+- [SitePatent](https://sitepatent.com) - Directory of startups, tools, and online products.
 
 ## Finance & Operations
 
