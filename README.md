@@ -60,6 +60,7 @@ Tools for taking a startup from idea to launch and scale.
 - [FreshBooks](https://www.freshbooks.com) - Cloud accounting and invoicing.
 - [Gusto](https://gusto.com) - Payroll, benefits, and HR.
 - [Deel](https://www.deel.com) - Global payroll and compliance.
+- [DDScore](https://www.ddscore.ai/) - First-pass due diligence for private companies, including claims, evidence gaps, and follow-up questions.
 
 ## Analytics & Customer Feedback
 
